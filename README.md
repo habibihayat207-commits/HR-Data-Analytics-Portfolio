@@ -1,2 +1,2 @@
 # HR-Data-Analytics-Portfolio
-End-to-end HR &amp; Healthcare analytics projects using SQL, Power BI and Excel.
+Designed and built a complete HR Analytics relational database using SQL Server. The project includes five fully normalized tables — Employees, Departments, Attendance, Attrition, and Performance — connected through primary and foreign key constraints.
